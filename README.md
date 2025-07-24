@@ -1,20 +1,11 @@
-## Colorie - Single column blog and portfolio Jekyll theme 
+## pi-recipes – Simple Recipe Markdown Site
 
-Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
+A collection of my home recipes. Each recipe is written in plain markdown, with estimated macros and full nutrition breakdowns built in.
 
-### Key features
+- Full meals and side dishes
+- Nutrition estimates per serving (calories, fat, carbs, protein)
+- Full nutrition label with vitamins, minerals, and sugar breakdown
+- Healthiness grading for quick comparison
 
-- seo optimized
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- dusqus comments
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
 
 ![Screenshot](screenshot.png)
