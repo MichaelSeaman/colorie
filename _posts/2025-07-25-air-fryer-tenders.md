@@ -18,17 +18,13 @@ tags: [dinner, protein, air fryer]
 
 Serves 5 (roughly 4 tenders per serving)
 
-1. **Marinate the Chicken**  
-   Place chicken tenderloins in a bowl with pickle juice and season with salt, pepper, paprika, garlic powder, and onion powder. Marinate in the fridge for at least 30 minutes.
+1. **Marinate the Chicken** Place chicken tenderloins in a bowl with pickle juice and season with salt, pepper, paprika, garlic powder, and onion powder. Marinate in the fridge for at least 30 minutes.
 
-2. **Prepare the Coating**  
-   In one bowl, whisk egg whites. In another bowl, crush the Quest chips and combine with cornstarch and grated parmesan. Optionally, blend together into a crumb.
+2. **Prepare the Coating** In one bowl, whisk egg whites. In another bowl, crush the Quest chips and combine with cornstarch and grated parmesan. Optionally, blend together into a crumb.
 
-3. **Bread the Chicken**  
-   Remove chicken from marinade, dip each piece in egg white, then coat thoroughly in the chip mixture.
+3. **Bread the Chicken** Remove chicken from marinade, dip each piece in egg white, then coat thoroughly in the chip mixture.
 
-4. **Air Fry**  
-   Preheat air fryer to 400°F. Cook tenders for 8 minutes, flip, then cook for another 5 minutes, or until crispy and cooked through.
+4. **Air Fry** Preheat air fryer to 400°F. Cook tenders for 8 minutes, flip, then cook for another 5 minutes, or until crispy and cooked through.
 
 ## Nutrition
 
